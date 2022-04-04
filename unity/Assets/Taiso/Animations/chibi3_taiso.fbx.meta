@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: edd54d3e8b0123e488edec367067638a
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4790063040118761321
+    second: Armature|Taiso00
+  - first:
+      74: -5216883035362509845
+    second: Armature|Taiso00p
+  - first:
+      74: 9132563354580807617
+    second: Armature|Taiso00x
+  - first:
+      74: -8770131875428948252
+    second: Armature|Taiso01
+  - first:
+      74: 800052627636426237
+    second: Armature|Taiso01x
+  - first:
+      74: -7604629684206344408
+    second: Armature|Taiso02
+  - first:
+      74: -2836823089372422665
+    second: Armature|Taiso02x
+  - first:
+      74: -7397860490435127687
+    second: Armature|Taiso03
+  - first:
+      74: 2590575906184431668
+    second: Armature|Taiso03x
+  - first:
+      74: -6942642631717553842
+    second: Armature|Taiso04
+  - first:
+      74: 1039836009227257846
+    second: Armature|Taiso04x
+  - first:
+      74: -1301932648318028299
+    second: Armature|Taiso05
+  - first:
+      74: -9198582960534049303
+    second: Armature|Taiso05x
+  - first:
+      74: -1012538178929585116
+    second: Armature|Taiso06
+  - first:
+      74: -79715757649891554
+    second: Armature|Taiso06x
+  - first:
+      74: 3329207155720231363
+    second: Armature|Taiso07
+  - first:
+      74: -1863120088881453982
+    second: Armature|Taiso07x
+  - first:
+      74: -2814324314701955413
+    second: Armature|Taiso08
+  - first:
+      74: -4985481509284223974
+    second: Armature|Taiso08x
+  - first:
+      74: -8138535848243446927
+    second: Armature|Taiso09
+  - first:
+      74: -3364490755915903027
+    second: Armature|Taiso09x
+  - first:
+      74: -2455772362958909852
+    second: Armature|Taiso10
+  - first:
+      74: -7675721860891160777
+    second: Armature|Taiso10s
+  - first:
+      74: -4531385655810604272
+    second: Armature|Taiso10x
+  - first:
+      74: -8480416064011177580
+    second: Armature|Taiso10xs
+  - first:
+      74: 9044365213503421834
+    second: Armature|Taiso11
+  - first:
+      74: 5802420555531832642
+    second: Armature|Taiso11s
+  - first:
+      74: 754451732680080070
+    second: Armature|Taiso11x
+  - first:
+      74: 5177841610685682863
+    second: Armature|Taiso11xs
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
